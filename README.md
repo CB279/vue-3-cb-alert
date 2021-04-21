@@ -46,13 +46,13 @@ alert.confirm("is confirm", () => {
 
 ## Option
 
-| name           | value              |
-| -------------- | ------------------ |
-| header         | string or computed |
-| ok             | string or computed |
-| cancel         | string or computed |
-| animatonMask   | string or computed |
-| animationAlert | string or computed |
+| name           | value  |
+| -------------- | ------ |
+| header         | string |
+| ok             | string |
+| cancel         | string |
+| animatonMask   | string |
+| animationAlert | string |
 
 ## 📑 License
 
