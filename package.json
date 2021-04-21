@@ -1,5 +1,5 @@
 {
-    "name": "@cb/alert",
+    "name": "@vue-cb/alert",
     "version": "1.0.0",
     "description": "vue,alert",
     "main": "lib/index.js",
@@ -15,13 +15,12 @@
     },
     "keywords": [
         "vue",
-        "3",
         "alert"
     ],
     "author": "",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/CB279/vue-3-cb-alert.git/issues"
+        "url": "https://github.com/CB279/vue-3-cb-alert/issues"
     },
-    "homepage": "https://github.com/CB279/vue-3-cb-alert.git#readme"
+    "homepage": "https://github.com/CB279/vue-3-cb-alert#readme"
 }
