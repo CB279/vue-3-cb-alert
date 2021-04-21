@@ -1,18 +1,18 @@
 # Other
 
-> <a href="https://github.com/CB279/vue-3-cb-validate">vue-3-cb-validate</a>
+> <a href="https://github.com/CB279/vue-3-cb-validate">validate</a>
 
-> <a href="https://github.com/CB279/vue-3-cb-modal">vue-3-cb-modal</a>
+> <a href="https://github.com/CB279/vue-3-cb-modal">modal</a>
 
-> <a href="https://github.com/CB279/vue-3-cb-grid">vue-3-cb-grid</a>
+> <a href="https://github.com/CB279/vue-3-cb-grid">grid</a>
 
-> <a href="https://github.com/CB279/vue-3-cb-datepicker">vue-3-cb-datepicker</a>
+> <a href="https://github.com/CB279/vue-3-cb-datepicker">datepicker</a>
 
-> <a href="https://github.com/CB279/vue-3-cb-select">vue-3-cb-select</a>
+> <a href="https://github.com/CB279/vue-3-cb-select">select</a>
 
-> <a href="https://github.com/CB279/vue-3-cb-side-nav">vue-3-cb-side-nav</a>
+> <a href="https://github.com/CB279/vue-3-cb-side-nav">side-nav</a>
 
-> <a href="https://github.com/CB279/vue-3-cb-paginate">vue-3-cb-paginate</a>
+> <a href="https://github.com/CB279/vue-3-cb-paginate">paginate</a>
 
 ## Development
 
