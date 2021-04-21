@@ -1,0 +1,27 @@
+{
+    "name": "@cb/alert",
+    "version": "1.0.0",
+    "description": "vue,alert",
+    "main": "lib/index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CB279/vue-3-cb-alert.git"
+    },
+    "keywords": [
+        "vue",
+        "3",
+        "alert"
+    ],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/CB279/vue-3-cb-alert.git/issues"
+    },
+    "homepage": "https://github.com/CB279/vue-3-cb-alert.git#readme"
+}
