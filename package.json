@@ -1,7 +1,7 @@
 {
     "name": "@vue-cb/alert",
-    "version": "1.0.2",
-    "description": "vue,alert",
+    "version": "1.0.3",
+    "description": "vue 3,alert",
     "main": "lib/index.js",
     "directories": {
         "lib": "lib"
@@ -14,7 +14,7 @@
         "url": "git+https://github.com/CB279/vue-3-cb-alert.git"
     },
     "keywords": [
-        "vue",
+        "vue 3",
         "alert"
     ],
     "author": "",
