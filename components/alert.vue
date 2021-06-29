@@ -70,9 +70,7 @@
                 </svg>
                 <span>{{ header }}</span>
             </div>
-            <div class="alert-body">
-                {{ textBody }}
-            </div>
+            <div-body class="alert-body" :textBody="textBody" />
             <div class="alert-button">
                 <button class="cancel" @click="hide" v-if="type == 'confirm'">
                     {{ textCancel }}
@@ -85,8 +83,12 @@
 
 <script>
 import { onMounted, ref } from "vue";
+import divBody from './body';
 
 export default {
+    components: {
+        divBody
+    },
     props: [
         "animationMask",
         "animationAlert",
